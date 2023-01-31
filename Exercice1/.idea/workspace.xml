@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1ced679-1dce-4ef6-b553-7d26c156e72d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/images/im9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Week1/jour2/ExerciceXP/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git_tutorial_akouvivien" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L3A9YYJhQTrX1YgyboQSKFNiBS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hp/Documents/FORMATION/JAVA/projets/programmationoo"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ced679-1dce-4ef6-b553-7d26c156e72d" name="Changes" comment="" />
+      <created>1675089247227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675089247227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
